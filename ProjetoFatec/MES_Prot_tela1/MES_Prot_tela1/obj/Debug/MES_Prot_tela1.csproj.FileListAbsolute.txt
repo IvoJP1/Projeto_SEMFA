@@ -1,0 +1,175 @@
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe.config
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.pdb
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.AssemblyReference.cache
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form1.resources
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Properties.Resources.resources
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.GenerateResource.cache
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.CoreCompileInputs.cache
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.exe
+C:\Users\Jonny\source\repos\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.pdb
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe.config
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.pdb
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.AssemblyReference.cache
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form1.resources
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Properties.Resources.resources
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.GenerateResource.cache
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.exe
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.pdb
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form2.resources
+C:\Users\Micro\Downloads\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form3.resources
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe.config
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.pdb
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form1.resources
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form2.resources
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form3.resources
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Properties.Resources.resources
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.GenerateResource.cache
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.exe
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.pdb
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form4.resources
+C:\Users\Micro\Desktop\COISAS\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form5.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe.config
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.pdb
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.AssemblyReference.cache
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form1.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form2.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form3.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form4.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form5.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Properties.Resources.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.GenerateResource.cache
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.exe
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.pdb
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form6.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form7.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.CopyComplete
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\Google.Protobuf.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MySql.Data.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Buffers.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Memory.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\ZstdNet.dll
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\Google.Protobuf.xml
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MySql.Data.xml
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Buffers.xml
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Memory.xml
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe.config
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.pdb
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\Google.Protobuf.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MySql.Data.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Buffers.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Memory.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\ZstdNet.dll
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\Google.Protobuf.pdb
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\Google.Protobuf.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MySql.Data.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Buffers.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Memory.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.AssemblyReference.cache
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form1.resources
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form2.resources
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form3.resources
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form4.resources
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form5.resources
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form6.resources
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form7.resources
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Properties.Resources.resources
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.GenerateResource.cache
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.CopyComplete
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.exe
+C:\Users\eduar\Downloads\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.pdb
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form10.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form11.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form8.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form9.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form12.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form13.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form14.resources
+C:\Users\Micro\Desktop\COISAS\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form15.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe.config
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.exe
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MES_Prot_tela1.pdb
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\BouncyCastle.Crypto.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\Google.Protobuf.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Hash.xxHash.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MySql.Data.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Buffers.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Memory.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Numerics.Vectors.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\ZstdNet.dll
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\BouncyCastle.Crypto.xml
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\Google.Protobuf.pdb
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\Google.Protobuf.xml
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.xml
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\K4os.Hash.xxHash.xml
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\MySql.Data.xml
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Buffers.xml
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Memory.xml
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Numerics.Vectors.xml
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.AssemblyReference.cache
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.SuggestedBindingRedirects.cache
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form1.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form10.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form11.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form12.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form13.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form14.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form15.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form2.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form3.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form4.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form5.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form6.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form7.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form8.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form9.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Properties.Resources.resources
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.GenerateResource.cache
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.CoreCompileInputs.cache
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.csproj.CopyComplete
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.exe
+E:\Minhas coisas\Trabalho & Estudo\Proffessional stuff\ADS\Fatec\Projeto MES\entreg atual\SEMFA\ProjetoFatec\SEMFA\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.pdb
