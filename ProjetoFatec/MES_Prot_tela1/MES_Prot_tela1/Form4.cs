@@ -110,7 +110,6 @@ namespace MES_Prot_tela1
 
         private void GerarGraficoColunas(double v1, double v2, double v3, double v4, double v5, double v6)
         {
-            lblteste.Visible = false;
 
             //TÍTULO
             Title title = new Title();
