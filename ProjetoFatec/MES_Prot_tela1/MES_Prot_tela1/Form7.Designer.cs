@@ -36,6 +36,9 @@
             this.label4 = new System.Windows.Forms.Label();
             this.tbxNome = new System.Windows.Forms.TextBox();
             this.tbxUsuario = new System.Windows.Forms.TextBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnImg = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label2
@@ -74,7 +77,7 @@
             this.button1.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.button1.Font = new System.Drawing.Font("MS Reference Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(82, 250);
+            this.button1.Location = new System.Drawing.Point(82, 264);
             this.button1.Margin = new System.Windows.Forms.Padding(0);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(263, 49);
@@ -124,11 +127,33 @@
             this.tbxUsuario.Size = new System.Drawing.Size(263, 26);
             this.tbxUsuario.TabIndex = 48;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox1.Location = new System.Drawing.Point(427, 62);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(199, 170);
+            this.pictureBox1.TabIndex = 49;
+            this.pictureBox1.TabStop = false;
+            // 
+            // btnImg
+            // 
+            this.btnImg.Location = new System.Drawing.Point(448, 239);
+            this.btnImg.Name = "btnImg";
+            this.btnImg.Size = new System.Drawing.Size(163, 23);
+            this.btnImg.TabIndex = 50;
+            this.btnImg.Text = "Procurar imagem";
+            this.btnImg.UseVisualStyleBackColor = true;
+            this.btnImg.Click += new System.EventHandler(this.btnImg_Click);
+            // 
             // Form7
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(428, 371);
+            this.ClientSize = new System.Drawing.Size(674, 371);
+            this.Controls.Add(this.btnImg);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.tbxUsuario);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.tbxNome);
@@ -141,6 +166,7 @@
             this.Name = "Form7";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Cadastro";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -155,5 +181,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox tbxNome;
         private System.Windows.Forms.TextBox tbxUsuario;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button btnImg;
     }
 }

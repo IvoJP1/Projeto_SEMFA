@@ -8,20 +8,42 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
+using MySql.Data.MySqlClient;
 
 namespace MES_Prot_tela1
 {
     public partial class Form4 : Form
     {
+        MySqlConnection conexao = new MySqlConnection("DataSource=localhost;username=root;password=;database=semfa_bd");
+
         public Form4()
         {
-            InitializeComponent();
-        }
+            double valor1=0;
+            double valor2=0;
+            double valor3=0;
+            double valor4=0;
+            double valor5=0;
+            double valor6=0;
 
-        public Form4(double valor1, double valor2, double valor3, double valor4, double valor5, double valor6)
-        {
+            conexao.Open();
+            MySqlCommand cmd = new MySqlCommand("SELECT capacidade_instalada, coluna1, coluna2, coluna3, coluna4, coluna5 FROM valores_grafico", conexao);
+            MySqlDataReader myreader = cmd.ExecuteReader();
+            if (myreader.Read())
+            {
+                 valor1 = Convert.ToDouble(myreader["capacidade_instalada"].ToString());
+                 valor2 = Convert.ToDouble(myreader["coluna1"].ToString());
+                 valor3 = Convert.ToDouble(myreader["coluna2"].ToString());
+                 valor4 = Convert.ToDouble(myreader["coluna3"].ToString());
+                 valor5 = Convert.ToDouble(myreader["coluna4"].ToString());
+                 valor6 = Convert.ToDouble(myreader["coluna5"].ToString());
+            }
+            else
+            {
+                MessageBox.Show("Dados não encontrados!");
+            }
+            conexao.Close();
+
             InitializeComponent();
-            lblteste.Text = Convert.ToString(valor1);
             GerarGraficoColunas(valor1, valor2, valor3, valor4, valor5, valor6);
         }
 

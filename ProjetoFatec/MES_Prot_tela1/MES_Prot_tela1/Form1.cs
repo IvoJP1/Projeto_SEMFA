@@ -38,7 +38,7 @@ namespace MES_Prot_tela1
                 {
                     if (Convert.ToInt32(list.ItemArray[0]) > 0)
                     {
-                        var form2 = new Form2();
+                        var form2 = new Form2(tbxUsuario.Text);
                         form2.ShowDialog();
                         this.Close();
                     }
