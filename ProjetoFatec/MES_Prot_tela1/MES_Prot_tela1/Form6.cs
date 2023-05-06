@@ -119,5 +119,10 @@ namespace MES_Prot_tela1
         {
             DGVListaFunc.DataSource = GetList();
         }
+
+        private void DGVListaFunc_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
