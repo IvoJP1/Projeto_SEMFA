@@ -39,13 +39,13 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.lblHoras = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.lblIdFunc = new System.Windows.Forms.Label();
             this.lblNomeFunc = new System.Windows.Forms.Label();
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.lblAvisos = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.lblHoras = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -178,6 +178,25 @@
             this.groupBox1.TabIndex = 42;
             this.groupBox1.TabStop = false;
             // 
+            // lblHoras
+            // 
+            this.lblHoras.AutoSize = true;
+            this.lblHoras.Location = new System.Drawing.Point(448, 40);
+            this.lblHoras.Name = "lblHoras";
+            this.lblHoras.Size = new System.Drawing.Size(13, 13);
+            this.lblHoras.TabIndex = 5;
+            this.lblHoras.Text = "0";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(399, 20);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(125, 16);
+            this.label2.TabIndex = 4;
+            this.label2.Text = "Horas Trabalhadas";
+            // 
             // lblIdFunc
             // 
             this.lblIdFunc.AutoSize = true;
@@ -209,41 +228,22 @@
             // groupBox2
             // 
             this.groupBox2.BackColor = System.Drawing.Color.White;
-            this.groupBox2.Controls.Add(this.lblAvisos);
+            this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Location = new System.Drawing.Point(0, 86);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(666, 351);
             this.groupBox2.TabIndex = 0;
             this.groupBox2.TabStop = false;
             // 
-            // lblAvisos
+            // label3
             // 
-            this.lblAvisos.AutoSize = true;
-            this.lblAvisos.Font = new System.Drawing.Font("Modern No. 20", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblAvisos.Location = new System.Drawing.Point(226, 38);
-            this.lblAvisos.Name = "lblAvisos";
-            this.lblAvisos.Size = new System.Drawing.Size(187, 38);
-            this.lblAvisos.TabIndex = 0;
-            this.lblAvisos.Text = "Sem Avisos";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(399, 20);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(125, 16);
-            this.label2.TabIndex = 4;
-            this.label2.Text = "Horas Trabalhadas";
-            // 
-            // lblHoras
-            // 
-            this.lblHoras.AutoSize = true;
-            this.lblHoras.Location = new System.Drawing.Point(448, 40);
-            this.lblHoras.Name = "lblHoras";
-            this.lblHoras.Size = new System.Drawing.Size(13, 13);
-            this.lblHoras.TabIndex = 5;
-            this.lblHoras.Text = "0";
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(196, 98);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(125, 16);
+            this.label3.TabIndex = 6;
+            this.label3.Text = "Horas Trabalhadas";
             // 
             // Form12
             // 
@@ -299,8 +299,8 @@
         private System.Windows.Forms.Label lblNomeFunc;
         private System.Windows.Forms.PictureBox pictureBox4;
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.Label lblAvisos;
         private System.Windows.Forms.Label lblHoras;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
     }
 }

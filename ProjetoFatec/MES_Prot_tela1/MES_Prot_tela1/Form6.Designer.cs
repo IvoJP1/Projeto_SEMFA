@@ -208,6 +208,7 @@
             this.DGVListaFunc.Name = "DGVListaFunc";
             this.DGVListaFunc.Size = new System.Drawing.Size(657, 433);
             this.DGVListaFunc.TabIndex = 40;
+            this.DGVListaFunc.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DGVListaFunc_CellContentClick);
             // 
             // pictureBox12
             // 
