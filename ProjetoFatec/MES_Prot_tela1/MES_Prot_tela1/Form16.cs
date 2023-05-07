@@ -19,11 +19,12 @@ namespace MES_Prot_tela1
     {
         
 
-        public Form16()
+        public Form16(int segp, string val)
         {
             InitializeComponent();
 
-
+            segp2 = segp;
+            val2 = val;
 
             if (rdbOutros.Checked == true)
             {
@@ -31,8 +32,13 @@ namespace MES_Prot_tela1
             }
 
         }
+
         string linha;
         MySqlConnection conexao;
+
+        /*ELIMINAR O VAL, APOSENTAR ELE*/ 
+        int segp2;
+        string val2;
 
         private void Form16_Load(object sender, EventArgs e)
         {
@@ -52,19 +58,19 @@ namespace MES_Prot_tela1
             {
                 if (rdbImprevistoExterno.Checked == true)
                 {
-                    linha = "INSERT INTO tbQtdParadas(justificativa_parada) VALUES ('Imprevisto Externo')";
+                    linha = "INSERT INTO tbQtdParadas(tempo_parada, justificativa_parada) VALUES (" + segp2 + ", 'Imprevisto Externo')";
                 }
                 else if (rdbImprevistoInterno.Checked == true)
                 {
-                    linha = "INSERT INTO tbQtdParadas(justificativa_parada) VALUES ('Imprevisto Interno')";
+                    linha = "INSERT INTO tbQtdParadas(tempo_parada, justificativa_parada) VALUES (" + segp2 + ", 'Imprevisto Interno')";
                 }
                 else if (rdbRazoesPessoais.Checked == true)
                 {
-                    linha = "INSERT INTO tbQtdParadas(justificativa_parada) VALUES ('Razões Pessoais')";
+                    linha = "INSERT INTO tbQtdParadas(tempo_parada, justificativa_parada) VALUES (" + segp2 + ", 'Razões Pessoais')";
                 }
                 else if (rdbDefeitoAparelho.Checked == true)
                 {
-                    linha = "INSERT INTO tbQtdParadas(justificativa_parada) VALUES ('Defeito Aparelho')";
+                    linha = "INSERT INTO tbQtdParadas(tempo_parada, justificativa_parada) VALUES (" + segp2 + ", 'Defeito do Aparelho')";
                 }
                 else
                 {
@@ -99,9 +105,11 @@ namespace MES_Prot_tela1
                 finally
                 {
                     conexao.Close();
+
+                    /*Form13 form13 = new Form13(val2);
+                    form13.ShowDialog();*/
+                    this.Close();
                 }
-
-
 
             }
         }

@@ -318,3 +318,4 @@ C:\Users\Arthur\Desktop\Projeto_SEMFA-pa-oca\ProjetoFatec\MES_Prot_tela1\MES_Pro
 C:\Users\Arthur\Desktop\Projeto_SEMFA-pa-oca\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.exe
 C:\Users\Arthur\Desktop\Projeto_SEMFA-pa-oca\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.pdb
 C:\Users\Arthur\Desktop\Projeto_SEMFA-pa-oca\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form16.resources
+C:\Users\Arthur\Desktop\Projeto_SEMFA-pa-oca\ProjetoFatec\MES_Prot_tela1\MES_Prot_tela1\obj\Debug\MES_Prot_tela1.Form17.resources

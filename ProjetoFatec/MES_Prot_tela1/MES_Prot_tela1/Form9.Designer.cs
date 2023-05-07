@@ -41,9 +41,9 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -194,6 +194,16 @@
             this.groupBox1.TabIndex = 53;
             this.groupBox1.TabStop = false;
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(141, 31);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(341, 42);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "Adicionar Processo";
+            // 
             // pictureBox11
             // 
             this.pictureBox11.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox11.BackgroundImage")));
@@ -203,6 +213,7 @@
             this.pictureBox11.Size = new System.Drawing.Size(82, 79);
             this.pictureBox11.TabIndex = 0;
             this.pictureBox11.TabStop = false;
+            this.pictureBox11.Click += new System.EventHandler(this.pictureBox11_Click);
             // 
             // label1
             // 
@@ -215,16 +226,6 @@
             this.label1.Size = new System.Drawing.Size(127, 24);
             this.label1.TabIndex = 52;
             this.label1.Text = "PROCESSOS";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(141, 31);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(341, 42);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Adicionar Processo";
             // 
             // Form9
             // 
