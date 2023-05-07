@@ -66,5 +66,11 @@ namespace MES_Prot_tela1
             this.Close();
             form11.ShowDialog();
         }
+
+        private void pictureBox11_Click(object sender, EventArgs e)
+        {
+            Form17 form17 = new Form17();
+            form17.ShowDialog();
+        }
     }
 }

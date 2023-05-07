@@ -65,7 +65,7 @@ namespace MES_Prot_tela1
         }
 
         int seg = 0;
-        int segp = 0;
+        public int segp = 0;
         int min = 0;
         int minp = 0;
         int horas = 0;
@@ -106,9 +106,8 @@ namespace MES_Prot_tela1
             if (taPausado == true)
             {
                 /**/
-
-                Form16 form16 = new Form16();
-                this.Close();
+                timer2.Enabled = false;
+                Form16 form16 = new Form16(segp, val);
                 form16.ShowDialog();
             }
 
@@ -123,7 +122,7 @@ namespace MES_Prot_tela1
             {
                 // registrar tempo parado e resetar o contador de tempo parado
 
-                try
+                /*try
                 {
                     MemoryStream ms = new MemoryStream();
                     byte[] img = ms.ToArray();
@@ -150,10 +149,13 @@ namespace MES_Prot_tela1
                 finally
                 {
                     conexao.Close();
-                }
+                }*/
                 //lblSegP.Text = Convert.ToString(segp);
             }
-            
+            segp = 0;
+            lblSegP.Text = Convert.ToString(segp);
+            taPausado = false;
+
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -162,40 +164,44 @@ namespace MES_Prot_tela1
             if (dialogResult == DialogResult.Yes)
             {
                 timer1.Enabled = false;
+                
 
                 lblTemptotal.Text += horas + " :" + min + ":" + seg;
-                //lblTemptotal.Text = Convert.ToString(seg);
 
                 /////////////////////////////////////
                 if (segp != 0)
                 {
-                    try
+                    if (segp != 1)
                     {
-
-
-                        String insertQuery = "INSERT INTO tbQtdParadas (tempo_parada) VALUES (@tempo)";
-                        conexao.Open();
-
-                        MySqlCommand comando = new MySqlCommand(insertQuery, conexao);
-
-                        comando.Parameters.Add("@tempo", MySqlDbType.Int64);
-
-                        comando.Parameters["@tempo"].Value = segp;
-
-                        if (comando.ExecuteNonQuery() == 1)
+                        try
                         {
-                            //MessageBox.Show("DATA INSERTED!");
+
+
+                            String insertQuery = "INSERT INTO tbQtdParadas (tempo_parada) VALUES (@tempo)";
+                            conexao.Open();
+
+                            MySqlCommand comando = new MySqlCommand(insertQuery, conexao);
+
+                            comando.Parameters.Add("@tempo", MySqlDbType.Int64);
+
+                            comando.Parameters["@tempo"].Value = segp;
+
+                            if (comando.ExecuteNonQuery() == 1)
+                            {
+                                //MessageBox.Show("DATA INSERTED!");
+                            }
+                            segp = 0;
                         }
-                        segp = 0;
+                        catch (Exception Ex)
+                        {
+                            MessageBox.Show(Ex.Message);
+                        }
+                        finally
+                        {
+                            conexao.Close();
+                        }
                     }
-                    catch (Exception Ex)
-                    {
-                        MessageBox.Show(Ex.Message);
-                    }
-                    finally
-                    {
-                        conexao.Close();
-                    }
+                    
                 }
 
                 seg = 0;
